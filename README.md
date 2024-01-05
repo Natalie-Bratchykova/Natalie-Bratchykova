@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**Natalie-Bratchykova/Natalie-Bratchykova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Nataliia Bratchykova
+I am front end developer.
+I hope you will find something intersting on this page. Here you can see some pieces of my pet projects 💜
+### Technology's stack
++ HTML
++ CSS
+  + SASS
+  + BOOTSTRAP
++ JS
+  + NODE
+  + EXPRESS
+  + REACT
