@@ -10,6 +10,7 @@ I hope you will find something intersting on this page. Here you can see some pi
   + NODE
   + EXPRESS
   + REACT
++ TS
 + Java
   + Spring
 + MySQL
