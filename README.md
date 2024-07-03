@@ -6,12 +6,16 @@ I hope you will find something intersting on this page. Here you can see some pi
 + CSS
   + SASS
   + BOOTSTRAP
+  + MUI
 + JS
   + NODE
   + EXPRESS
   + REACT
+  + Mobx
 + TS
 + Java
   + Spring
 + MySQL
 + MongoDB
++ PostgreSQL
++ Firebase
