@@ -12,6 +12,8 @@ I hope you will find something intersting on this page. Here you can see some pi
   + EXPRESS
   + REACT
   + Mobx
+  + EJS
+  + JQuery
 + TS
 + Java
   + Spring
